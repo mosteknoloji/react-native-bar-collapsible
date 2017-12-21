@@ -26,7 +26,6 @@ class BarCollapsible extends Component {
     }
 
     static propTypes = {
-        style: View.propTypes.style,
         titleStyle: Text.propTypes.style,
         tintColor: PropTypes.string,
     }
